@@ -1,4 +1,6 @@
 ## code your solution here. 
 class cat 
-  attr_accessible
+  attr_accessor :name :meow
+  
+  
 end 
