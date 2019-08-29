@@ -4,6 +4,7 @@ class Cat
   attr_reader :meow
   
   def meow 
+    ""
   
   
   
